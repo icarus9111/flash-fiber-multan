@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://icarus9111.github.io/flash-fiber-multan/sitemap.xml
